@@ -1,0 +1,3 @@
+#!/bin/bash
+echo 'Launching EC2...'
+# aws ec2 run-instances ...
